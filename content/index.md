@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+title: Redrix Games
+description: Site index
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Welcome
+----
+Time to get
+- **freaky**...?!
