@@ -11,8 +11,12 @@
             "id": "eb4f2a6e6679d0eb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Settings/Realms/Realms Adventure/Realms/The Realms.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Settings/Realms/Realms Adventure/Realms/The Realms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Settings/Realms/Realms Adventure/Realms/The Realms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Settings/Realms/Realms Adventure/Realms/The Realms.md"
+              }
             }
           }
         ]
@@ -135,9 +143,37 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "eb4f2a6e6679d0eb",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Settings/Realms/Realms Adventure/Realms/Balance Realm - Earth.md",
+    "Settings/Realms/Realms Adventure/Realms/The Realms.md",
+    "Settings/Realms/Realms Adventure/Realms/Outer Realms.md",
+    "Settings/Realms/Realms Adventure/Characters/Races and Species.md",
+    "Settings/Realms/Realms Adventure/Magic/Balance.md",
+    "Settings/Realms/Realms Adventure/Magic/Earthly Magic.md",
+    "Settings/Realms/Realms Adventure/Magic/Power system - Magic.md",
+    "Settings/Realms/Realms Adventure/Realms Adventure.md",
+    "Settings/Realms/Realms Adventure/Realms",
+    "Settings/Realms/Realms Adventure/Characters",
+    "Settings/Realms/Realms Adventure/Magic",
+    "private/Templates/Adventure Tag.md",
+    "private/Templates/War Tag - Great Realmly War.md",
+    "private/Templates/Hydron Tag.md",
+    "private/Templates",
+    "private",
+    "Attachments",
+    "Settings/Realms/Realms Adventure/Realms Timeline.md",
+    "Settings/Realms/Realms Adventure/Characters/Primordial Gods.md",
+    "index.md",
+    "Settings/Realms/Realmly War/Power system - Magic.md",
+    "Settings/Realms/Hydron/Power system - Magic.md",
+    "Settings/Realms/Hydron/Races and Species.md",
+    "Settings/Realms/Hydron/Hydron Technology.md",
+    "Settings/Realms",
+    "Settings/Realms/Realmly War"
+  ]
 }
