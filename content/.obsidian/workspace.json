@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Settings/Realms/Realms Adventure/Realms/The Realms.md",
+                "file": "Settings/Realms/Realms Adventure/Causality Diagram.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Settings/Realms/Realms Adventure/Realms/The Realms.md",
+                "file": "Settings/Realms/Realms Adventure/Causality Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Settings/Realms/Realms Adventure/Realms/The Realms.md",
+                "file": "Settings/Realms/Realms Adventure/Causality Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Settings/Realms/Realms Adventure/Realms/The Realms.md"
+                "file": "Settings/Realms/Realms Adventure/Causality Diagram.md"
               }
             }
           }
@@ -147,20 +147,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2640886600817202",
+  "active": "eb4f2a6e6679d0eb",
   "lastOpenFiles": [
-    "Attachments/Realms Overview.png",
-    "Settings/Realms/Realms Adventure/Realms/Outer Realms.md",
-    "Settings/Realms/Realms Adventure/Realms/Balance Realm - Earth.md",
     "Settings/Realms/Realms Adventure/Realms Adventure.md",
+    "Settings/Realms/Realms Adventure/Causality Diagram.md",
+    "Settings/Realms/Realms Adventure/The Realms/The Realms.md",
+    "Settings/Realms/Realms Adventure/The Realms/Balance Realm - Earth.md",
+    "Attachments/Realms Overview.png",
     "Settings/Realms/Realms Adventure/Realms Timeline.md",
     "index.md",
-    "Settings/Realms/Realms Adventure/Realms/The Realms.md",
+    "Settings/Realms/Realms Adventure/The Realms/Outer Realms.md",
     "Settings/Realms/Realms Adventure/Characters/Races and Species.md",
     "Settings/Realms/Realms Adventure/Magic/Balance.md",
     "Settings/Realms/Realms Adventure/Magic/Earthly Magic.md",
     "Settings/Realms/Realms Adventure/Magic/Power system - Magic.md",
-    "Settings/Realms/Realms Adventure/Realms",
+    "Settings/Realms/Realms Adventure/The Realms",
     "Settings/Realms/Realms Adventure/Characters",
     "Settings/Realms/Realms Adventure/Magic",
     "private/Templates/Adventure Tag.md",
